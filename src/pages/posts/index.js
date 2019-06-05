@@ -21,7 +21,7 @@ function Posts({ match }) {
           <Link to={`${match.url}/67390`}>Post 67390</Link>
         </li>
         <li>
-          <Link to={'/'} exact>
+          <Link to={'/'}>
             Return Home
           </Link>
         </li>
